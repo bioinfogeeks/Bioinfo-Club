@@ -17,7 +17,7 @@
 
 + **`Materials`** : 
   
-#### 开发必备 | 如何作为开发者在Bioconductor平台发布一个R包
+#### 文献解读 | Fast and accurate genomic analyses using genome graphs
 + **`Reporter`** : Chuangyu Tian
 
 + **`Materials`** : 
