@@ -12,6 +12,11 @@
   + GEMMAmanual.pdf
   + Genome-wide efficient mixed-model analysis for association studies..pdf
 
+#### 开发必备 | 如何作为开发者在Bioconductor平台发布一个R包
++ **`Reporter`** : YuJia Xiang
+
++ **`Materials`** : 
+  
 
 ## Summary
 
