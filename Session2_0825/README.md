@@ -34,7 +34,7 @@
 所有成员分享了自己近期所学习到的生信知识和文献理解, 并对小组的未来发展规划进行了讨论
 
 ## Photos
-![Good Journal Club！](https://github.com/bioinfogeeks/Bioinfo-Club/blob/master/Session1_0811_Introduction/Session1_Introduction.jpg)
+![Good Journal Club！](https://github.com/bioinfogeeks/Bioinfo-Club/blob/master/Session2_0825/pic/session2.jpg)
 
 
 
