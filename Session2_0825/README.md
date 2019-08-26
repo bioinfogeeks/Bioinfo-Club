@@ -1,7 +1,7 @@
 ## Info
 
-+ **`Time:`** 2019-08-11, 19:30-22:00
-+ **`Place:`** Institute of Genetics and Development Biology, Chinese Academy of Science
++ **`Time:`** 2019-08-25, 18:00-21:30
++ **`Place:`** Institute of Microbiology, Chinese Academy of Science
 
 ## Contents
 #### 文献解读 | Population-specific genotype imputations using minimac or IMPUTE2
