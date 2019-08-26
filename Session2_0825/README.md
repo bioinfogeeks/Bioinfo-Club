@@ -1,3 +1,8 @@
+## Info
+
++ **`Time:`** 2019-08-11, 19:30-22:00
++ **`Place:`** Institute of Genetics and Development Biology, Chinese Academy of Science
+
 ## Contents
 #### 文献解读 | Population-specific genotype imputations using minimac or IMPUTE2
 + **`Reporter`** : Xiaoxiao Zhang
@@ -26,8 +31,10 @@
 
 ## Summary
 
+所有成员分享了自己近期所学习到的生信知识和文献理解, 并对小组的未来发展规划进行了讨论
 
 ## Photos
+![Good Journal Club！](https://github.com/bioinfogeeks/Bioinfo-Club/blob/master/Session1_0811_Introduction/Session1_Introduction.jpg)
 
 
 
