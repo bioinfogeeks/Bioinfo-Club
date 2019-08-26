@@ -21,6 +21,7 @@
 + **`Reporter`** : Yujia Xiang
 
 + **`Materials`** : 
+  + How to contribute an R package to Bioconductor_xiangyujia_0825.pptx
   
 #### 文献解读 | Fast and accurate genomic analyses using genome graphs
 + **`Reporter`** : Chuangyu Tian
