@@ -1,7 +1,8 @@
 ## Info
 
-+ **`Time:`** 2019-09-06, 18:00-21:30
++ **`Time:`** 2019-09-08, 19:30-22:00
 + **`Place:`** 
++ **`New Member:`** Ming Lian
 
 ## Contents
 #### 生信知识 | 时间序列转录组
@@ -16,6 +17,16 @@
   
 + **`Materials`** : 
   
+#### 生信知识 | Chip-seq
++ **`Reporter`** : Chuangyu Tian
+  
++ **`Materials`** : 
+
+#### 生信知识 | RNA-seq
++ **`Reporter`** : Zhiyuan Li
+  
++ **`Materials`** : 
+
 ## Summary
 
 ## Photos
