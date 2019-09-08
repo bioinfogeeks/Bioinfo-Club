@@ -26,6 +26,8 @@
 + **`Reporter`** : Zhiyuan Li
   
 + **`Materials`** : 
+  +Introduction To Synthetic Biology_book_.pdf
+  +A brief introduction of synthetic biology.pptx
 
 ## Summary
 
