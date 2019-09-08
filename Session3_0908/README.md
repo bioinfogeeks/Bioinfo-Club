@@ -32,3 +32,4 @@
 ## Summary
 
 ## Photos
+![good party](https://github.com/bioinfogeeks/Bioinfo-Club/blob/master/Session3_0908/pic/Bioinfogeeks.jpg)
