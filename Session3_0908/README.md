@@ -1,7 +1,7 @@
 ## Info
 
 + **`Time:`** 2019-09-08, 19:30-22:00
-+ **`Place:`** 
++ **`Place:`** Beijing institute Genomics, Chinese Academy of Science
 + **`New Member:`** Ming Lian
 
 ## Contents
