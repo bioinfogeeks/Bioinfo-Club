@@ -23,9 +23,9 @@
   
 #### 生信知识 | Chip-seq
 + **`Reporter`** : Chuangyu Tian
-  + Chip-seq.pptx
   
 + **`Materials`** : 
+  + Chip-seq.pptx
 
 #### 生信知识 | RNA-seq
 + **`Reporter`** : Zhiyuan Li
